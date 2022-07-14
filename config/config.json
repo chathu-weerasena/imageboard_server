@@ -1,0 +1,20 @@
+{
+  "development": {
+    "url": "postgres://zfmoomip:wS3KyxRVCq6xsLF3UDExXy0K6jS5vEnf@abul.db.elephantsql.com/zfmoomip",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
